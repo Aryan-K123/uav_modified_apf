@@ -1,0 +1,6 @@
+[submodule "src/sjtu_drone"]
+	path = src/sjtu_drone
+	url = https://github.com/NovoG93/sjtu_drone.git
+[submodule "src/gazebo_map_creator"]
+	path = src/gazebo_map_creator
+	url = https://github.com/arshadlab/gazebo_map_creator.git
